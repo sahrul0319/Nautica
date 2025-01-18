@@ -4721,12 +4721,12 @@
 172.232.239.175,587,ID,Akamai Connected Cloud
 172.232.239.249,587,ID,Akamai Connected Cloud
 172.232.231.24,587,ID,Akamai Connected Cloud
-172.232.239.134,587,ID,Akamai Connected Cloud
+172.232.239.134,443,ID,Akamai Connected Cloud
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara
 103.133.223.51,2096,ID,Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,Cloud Teknologi Nusantara
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
-103.186.1.209,2053,ID,Cloud Hosting
+103.186.1.209,2053,ID,Cloud Hosting Indonesia
 103.6.207.108,8080,ID,Pusat Media
 35.219.50.99,443,ID,Google LCC
 5.219.15.90,443,ID,Google LCC
