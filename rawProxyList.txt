@@ -5406,7 +5406,6 @@
 43.133.145.156,53136,ID,Shenzhen Tencent Computer Systems Company Limited
 172.232.239.249,587,ID,Akamai Connected Cloud
 35.219.50.99,443,ID,Google LLC
-35.219.50.99,443,ID,Google LCC
 43.218.77.16,1443,ID,Amazon.com
 203.194.112.119,8443,ID,CV Rumahweb Indonesia
 172.232.239.147,587,ID,Akamai Connected Cloud
