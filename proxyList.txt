@@ -4721,6 +4721,7 @@
 172.232.239.151,587,ID,Akamai Connected Cloud
 172.232.239.249,587,ID,Akamai Connected Cloud
 172.232.231.24,587,ID,Akamai Connected Cloud
+172.232.237.112,2053,ID,Akamai Connected Cloud
 172.232.239.134,443,ID,Akamai Connected Cloud
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara
 103.133.223.51,2096,ID,Cloud Teknologi Nusantara
